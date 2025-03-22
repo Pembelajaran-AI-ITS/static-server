@@ -1,6 +1,4 @@
-# Kelas 7  
-
-## Ipa  
+# IPA
 
 ### Bab 1 - Zat dan Perubahannya  
 - Wujud Zat dan Model Partikel  
