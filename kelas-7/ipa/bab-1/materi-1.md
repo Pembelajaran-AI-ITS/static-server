@@ -1,4 +1,6 @@
-# Wujud Zat dan Model Partikel
+# Ilmu Pengetahuan Alam
+
+## Wujud Zat dan Model Partikel
 
 Masih ingatkah kalian mengenai penggolongan benda menjadi benda padat, cair, gas saat kalian di SD? Pembagian benda tersebut adalah berdasarkan wujudnya. Di tingkatan SMP, semua benda kita kenal sebagai materi.
 
@@ -23,4 +25,4 @@ Apakah difusi terjadi lebih cepat dalam cairan atau gas? Jelaskan
 
 Tahukah kalian bagaimana cara kita mencium aroma masakan ibu atau aroma parfum, bahkan bau dari tumpukan sampah? Aroma dan bau-bauan masuk melalui rongga hidung atau nostril saat kita bernapas. Aroma dan bau-bauan tadi kemudian masuk melalui rambut-rambut halus atau silia yang ada di ujung saraf pembau. Aroma dan bau-bauan itu melalui saraf disalurkan ke otak sehingga kita mengetahui bau tersebut.
 
-<Done>
+<|DONE|>

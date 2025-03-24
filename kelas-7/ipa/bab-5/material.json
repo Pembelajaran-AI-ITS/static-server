@@ -1,0 +1,23 @@
+[
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de12ddece1ff81dda99d03" },
+    "name": "Sistem Tata Surya",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-5/logo-materi-1.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-5/materi-1.md"
+  },
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de12ddece1ff81dda99d03" },
+    "name": "Bumi dan Satelitnya",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-5/logo-materi-2.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-5/materi-2.md"
+  },
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de12ddece1ff81dda99d03" },
+    "name": "Mengenal Matahari Lebih Dekat",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-5/logo-materi-3.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-5/materi-3.md"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de1290ece1ff81dda99cff" },
+    "name": "Wujud Zat dan Model Partikel",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-1/logo-materi-1.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-1/materi-1.md"
+  },
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de1290ece1ff81dda99cff" },
+    "name": "Perubahan Wujud Zat",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-1/logo-materi-2.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-1/materi-2.md"
+  },
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de1290ece1ff81dda99cff" },
+    "name": "Perubahan Fisika dan Kimia",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-1/logo-materi-3.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-1/materi-3.md"
+  },
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de1290ece1ff81dda99cff" },
+    "name": "Kerapatan Zat",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-1/logo-materi-4.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-1/materi-4.md"
+  }
+]

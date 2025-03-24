@@ -1,0 +1,23 @@
+[
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de12d2ece1ff81dda99d02" },
+    "name": "Makhluk Hidup atau Benda Mati?",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-4/logo-materi-1.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-4/materi-1.md"
+  },
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de12d2ece1ff81dda99d02" },
+    "name": "Mengapa Makhluk Hidup Dikelompokkan?",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-4/logo-materi-2.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-4/materi-2.md"
+  },
+  {
+    "subject_id": { "$oid": "67de036e3441b146514baae3" },
+    "chapter_id": { "$oid": "67de12d2ece1ff81dda99d02" },
+    "name": "Makhluk Hidup Beraneka Ragam",
+    "logo_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-4/logo-materi-3.png",
+    "pdf_url": "https://raw.githubusercontent.com/Pembelajaran-AI-ITS/static-server/refs/heads/main/kelas-7/ipa/bab-4/materi-3.md"
+  }
+]
