@@ -1,6 +1,6 @@
 # Ilmu Pengetahuan Alam
-
-## Wujud Zat dan Model Partikel
+## Zat dan Perubahannya  
+### Wujud Zat dan Model Partikel
 
 Masih ingatkah kalian mengenai penggolongan benda menjadi benda padat, cair, gas saat kalian di SD? Pembagian benda tersebut adalah berdasarkan wujudnya. Di tingkatan SMP, semua benda kita kenal sebagai materi.
 
