@@ -4,4 +4,4 @@
 - <Mudah> Wujud Zat dan Model Partikel  
 - <Sedang> Perubahan Wujud Zat  
 - <Sulit> Perubahan Fisika dan Kimia  
-- <Sulit> Kerapatan Zat  
+- <Sulit> Kerapatan Zat. Masa dalam kilogram, tapi jawaban dalam gram
