@@ -1,7 +1,7 @@
 # Ilmu Pengetahuan Alam
 
 ### Bab 1 - Zat dan Perubahannya  
-- Wujud Zat dan Model Partikel  
-- Perubahan Wujud Zat  
-- Perubahan Fisika dan Kimia  
-- Kerapatan Zat  
+- <Mudah> Wujud Zat dan Model Partikel  
+- <Sedang> Perubahan Wujud Zat  
+- <Sulit> Perubahan Fisika dan Kimia  
+- <Sulit> Kerapatan Zat  
